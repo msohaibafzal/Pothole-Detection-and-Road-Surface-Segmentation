@@ -1,1 +1,1 @@
-ttps://www.kaggle.com/code/supersohaib/cv-project}
+https://www.kaggle.com/code/supersohaib/cv-project
